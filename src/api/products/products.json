@@ -1,52 +1,52 @@
 [
   {
     "productId": 1,
-    "productName": "Leaf Rake",
-    "productCode": "GDN-0011",
-    "releaseDate": "March 19, 2019",
+    "productName": "Mascara",
+    "productCode": "MAS-0011",
+    "releaseDate": "February 19, 2020",
     "description": "Leaf rake with 48-inch wooden handle.",
-    "price": 19.95,
-    "starRating": 3.2,
-    "imageUrl": "assets/images/leaf_rake.png"
+    "price": 20,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/mascara.jpg"
   },
   {
     "productId": 2,
-    "productName": "Garden Cart",
-    "productCode": "GDN-0023",
-    "releaseDate": "March 18, 2019",
+    "productName": "Lip gloss",
+    "productCode": "LPG-0023",
+    "releaseDate": "July 8, 2020",
     "description": "15 gallon capacity rolling garden cart",
-    "price": 32.99,
-    "starRating": 4.2,
-    "imageUrl": "assets/images/garden_cart.png"
+    "price": 12.99,
+    "starRating": 3.9,
+    "imageUrl": "assets/images/lip gloss.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "Toner",
+    "productCode": "TBX-0048",
+    "releaseDate": "Dec 23, 2018",
+    "description": "Curved claw steel hammer",
+    "price": 28.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/toner.jpg"
+  },
+  {
+    "productId": 4,
+    "productName": "Eye Shadow",
+    "productCode": "EYX-0022",
+    "releaseDate": "April 1, 2020",
+    "description": "15-inch steel blade hand saw",
+    "price": 30.55,
+    "starRating": 4.7,
+    "imageUrl": "assets/images/eyeshadow.jpg"
   },
   {
     "productId": 5,
-    "productName": "Hammer",
-    "productCode": "TBX-0048",
-    "releaseDate": "May 21, 2019",
-    "description": "Curved claw steel hammer",
-    "price": 8.9,
-    "starRating": 4.8,
-    "imageUrl": "assets/images/hammer.png"
-  },
-  {
-    "productId": 8,
-    "productName": "Saw",
-    "productCode": "TBX-0022",
-    "releaseDate": "May 15, 2019",
-    "description": "15-inch steel blade hand saw",
-    "price": 11.55,
-    "starRating": 3.7,
-    "imageUrl": "assets/images/saw.png"
-  },
-  {
-    "productId": 10,
-    "productName": "Video Game Controller",
-    "productCode": "GMG-0042",
-    "releaseDate": "October 15, 2018",
+    "productName": "Mirror",
+    "productCode": "MIR-0042",
+    "releaseDate": "October 6, 2020",
     "description": "Standard two-button video game controller",
-    "price": 35.95,
-    "starRating": 4.6,
-    "imageUrl": "assets/images/xbox-controller.png"
+    "price": 10.99,
+    "starRating": 4.0,
+    "imageUrl": "assets/images/mirror.jpg"
   }
 ]
